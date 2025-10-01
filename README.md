@@ -1,8 +1,8 @@
-# Resenha de Artigos - Desenvolvimento de Software
+#  📖Resenha de Artigos - Desenvolvimento de Software
 
 Este repositório contém uma coleção de resenhas de artigos fundamentais e influentes na área de Engenharia de Software e Arquitetura de Software. As resenhas foram organizadas por temas para facilitar a navegação e o estudo dos conceitos.
 
-## Artigos Clássicos e Fundamentos
+## Artigos Clássicos e Fundamentos 📕
 
 Esta seção inclui artigos que estabeleceram princípios e questionamentos atemporais sobre a natureza do software e seu desenvolvimento.
 
@@ -16,7 +16,7 @@ Esta seção inclui artigos que estabeleceram princípios e questionamentos atem
     * **Resenha:** Questiona a existência de uma "bala de prata" para resolver os problemas do software, diferenciando as dificuldades essenciais (inerentes ao software) das acidentais (solucionáveis por tecnologia).
     * [Acessar a resenha](Resenha do artigo _No Silver Bullet_ Essence and Accidents of Software Engineering.txt)
 
-## Padrões e Arquiteturas
+## Padrões e Arquiteturas 💻
 
 Esta seção se aprofunda em padrões arquiteturais, desde os mais tradicionais até os contemporâneos, e discute a evolução da disciplina de arquitetura de software.
 
@@ -35,7 +35,7 @@ Esta seção se aprofunda em padrões arquiteturais, desde os mais tradicionais 
     * **Resenha:** Descreve a arquitetura caótica e desorganizada de sistemas que, apesar dos problemas, é um dos padrões mais comuns na prática, explorando as razões para sua prevalência.
     * [Acessar a resenha](Resenha Big Ball of Mud.txt)
 
-## Design Estratégico e Qualidade do Código
+## Design Estratégico e Qualidade do Código 👨‍💻
 
 Aqui estão os artigos que focam em como o design pode ser utilizado para gerenciar a complexidade e identificar problemas em sistemas de software.
 
