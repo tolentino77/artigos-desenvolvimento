@@ -1,1 +1,16 @@
+Resenha Acadêmica – Managing Technical Debt
+Autor: Steve McConnell
+Ano: 2008
+Tipo: White Paper – Construx Software
 
+O artigo Managing Technical Debt, escrito por Steve McConnell, aborda o conceito de “dívida técnica” (technical debt) como uma metáfora financeira aplicada ao desenvolvimento de software. O autor, um dos principais nomes em engenharia de software, utiliza o termo cunhado por Ward Cunningham para explicar o impacto de decisões técnicas que priorizam prazos curtos em detrimento da qualidade a longo prazo.
+
+O texto é estruturado em seções claras que discutem desde a definição até estratégias de controle e pagamento da dívida técnica. McConnell distingue dois tipos principais: dívida não intencional (Type I), resultante de más práticas ou código de baixa qualidade, e dívida intencional (Type II), assumida estrategicamente para atender demandas de negócio. Esta última se subdivide em dívida de curto prazo (II.A), geralmente reativa, e dívida de longo prazo (II.B), assumida de forma planejada.
+
+O autor utiliza a analogia com finanças para explicar o conceito de “serviço da dívida”, isto é, o esforço contínuo necessário para manter e evoluir sistemas que carregam compromissos técnicos. A visibilidade da dívida é apontada como um desafio central, sugerindo-se o uso de ferramentas de rastreamento como backlogs ou sistemas de defeitos para registrar e monitorar débitos técnicos.
+
+McConnell também discute a relação entre áreas técnicas e gerenciais, destacando que executivos tendem a tolerar mais dívida técnica devido ao foco em resultados imediatos, enquanto engenheiros priorizam a sustentabilidade do código. Para o autor, a comunicação efetiva entre esses grupos, usando uma linguagem financeira, é fundamental para decisões equilibradas.
+
+O artigo oferece ainda um modelo de análise de decisão, com exemplos quantitativos que comparam custos imediatos e futuros de diferentes caminhos de implementação (solução completa, solução rápida e suja, ou solução rápida e controlada). Essa abordagem prática contribui para a adoção de uma cultura organizacional mais consciente e estratégica na gestão da dívida técnica.
+
+Em síntese, McConnell propõe que a dívida técnica, quando bem gerida, pode ser uma ferramenta útil de negócios, mas alerta para os riscos do acúmulo descontrolado. O texto se destaca pela clareza, aplicabilidade e relevância contínua, servindo como referência essencial para profissionais e pesquisadores interessados em qualidade, manutenção e sustentabilidade de software.
