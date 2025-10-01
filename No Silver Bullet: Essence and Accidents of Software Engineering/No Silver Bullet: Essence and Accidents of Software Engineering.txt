@@ -13,4 +13,5 @@ Apesar de seu ceticismo em relação a soluções mágicas, Brooks não adota um
 A grande contribuição do artigo é sua clareza ao diferenciar ilusões de possibilidades concretas. Brooks ressalta que o desenvolvimento de software nunca será fácil e que a expectativa de ganhos milagrosos é ingênua. Mais de três décadas depois, suas observações permanecem atuais: embora novas práticas como agile, DevOps e cloud computing tenham surgido, nenhuma eliminou as dificuldades essenciais apontadas em 86.
 
 
+
 Em resumo, No Silver Bullet é uma leitura indispensável para profissionais e estudantes da área. Sua mensagem principal é atemporal: não existe solução única capaz de resolver os problemas fundamentais da Engenharia de Software. O progresso vem de escolhas conscientes, disciplina metodológica e aceitação dos limites impostos pela própria natureza do software.
