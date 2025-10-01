@@ -46,4 +46,4 @@ Aqui estão os artigos que focam em como o design pode ser utilizado para gerenc
 
 * **Hotspot Patterns: The Formal Definition and Automatic Detection of Architecture Smells**
     * **Resenha:** Apresenta a formalização de "padrões de hotspot", que são problemas arquiteturais que causam a concentração de defeitos e mudanças, e propõe um método para sua detecção automática em grandes bases de código.
-    * [Acessar a resenha](Hotspot Patterns.txt)
+    * [Acessar a resenha](Hotspot.txt)
