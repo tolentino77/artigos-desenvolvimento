@@ -30,6 +30,14 @@ Esta seção se aprofunda em padrões arquiteturais, desde os mais tradicionais 
     * **Autores:** Brian Foote e Joseph Yoder
     * **Resenha:** Descreve a arquitetura caótica e desorganizada de sistemas que, apesar dos problemas, é um dos padrões mais comuns na prática, explorando as razões para sua prevalência.
 
+  ## Gerenciamento de Dívida Técnica 👨‍💼
+
+Esta seção aborda a dívida técnica, um dos principais desafios no desenvolvimento de software a longo prazo, e como ela pode ser gerenciada de forma eficaz.
+
+* **Managing Technical Debt**
+    * **Autores:** Chris Sterling, Brian Foote e Joseph Yoder
+    * **Resenha:** Este artigo explora o conceito de dívida técnica, identificando os seus tipos e as suas causas. O artigo fornece um conjunto de padrões e anti-padrões para gerir a dívida técnica de forma estratégica, argumentando que ignorar a dívida técnica pode prejudicar a sustentabilidade e a velocidade de evolução do software.
+
 ## Design Estratégico e Qualidade do Código 👨‍💻
 
 Aqui estão os artigos que focam em como o design pode ser utilizado para gerenciar a complexidade e identificar problemas em sistemas de software.
