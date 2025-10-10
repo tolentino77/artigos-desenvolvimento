@@ -32,11 +32,19 @@ Esta seção se aprofunda em padrões arquiteturais, desde os mais tradicionais 
 
   ## Gerenciamento de Dívida Técnica 👨‍💼
 
-Esta seção aborda a dívida técnica, um dos principais desafios no desenvolvimento de software a longo prazo, e como ela pode ser gerenciada de forma eficaz.
+   Esta seção aborda a dívida técnica, um dos principais desafios no desenvolvimento de software a longo prazo, e como ela pode ser gerenciada de forma eficaz.
 
 * **Managing Technical Debt**
     * **Autores:** Chris Sterling, Brian Foote e Joseph Yoder
     * **Resenha:** Este artigo explora o conceito de dívida técnica, identificando os seus tipos e as suas causas. O artigo fornece um conjunto de padrões e anti-padrões para gerir a dívida técnica de forma estratégica, argumentando que ignorar a dívida técnica pode prejudicar a sustentabilidade e a velocidade de evolução do software.
+
+   ## Tomada de Decisão e Documentação 📄
+  Esta seção foca em como a tomada de decisões em arquitetura pode ser estruturada e documentada de forma eficiente para garantir a coerência e a comunicabilidade das escolhas de design.
+
+* **Documenting Architecture Decisions (ADRs)**
+    * **Autor:** Michael Nygard
+    * **Resenha:** Este artigo apresenta o conceito de Registros de Decisões de Arquitetura (ADRs) como uma ferramenta leve e eficaz para capturar as decisões importantes e seus contextos. É defendido que a documentação dessas decisões não é apenas uma formalidade, mas uma prática crucial para o alinhamento da equipe, a sustentabilidade do conhecimento e a prevenção de futuros retrabalhos.
+    
 
 ## Design Estratégico e Qualidade do Código 👨‍💻
 
