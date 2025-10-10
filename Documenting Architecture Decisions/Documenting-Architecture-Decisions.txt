@@ -1,0 +1,36 @@
+**Resenha Acadêmica – *Documenting Architecture Decisions***
+**Autor:** Michael Nygard
+**Ano:** 2011
+**Fonte:** Blog da Cognitect
+
+O artigo *Documenting Architecture Decisions*, escrito por Michael Nygard em 2011, apresenta uma proposta prática e concisa
+para lidar com um desafio recorrente em projetos de software: a ausência de registro claro sobre as decisões arquiteturais
+e seus motivos. O autor destaca que, em contextos ágeis, a documentação costuma ser minimizada, o que pode levar à perda de
+informações críticas sobre o raciocínio técnico que fundamentou determinadas escolhas. Para Nygard, o problema não está em
+documentar, mas em como fazê-lo de modo sustentável, útil e integrado ao processo de desenvolvimento.
+
+O texto introduz o conceito de **Architecture Decision Records (ADRs)**, pequenos documentos criados para registrar decisões
+arquiteturais relevantes de forma leve e versionada junto ao código-fonte. Cada ADR deve conter um título, um contexto que
+descreve as forças e restrições que influenciaram a decisão, a decisão propriamente dita, seu status (como proposta, aceita
+ou substituída) e as consequências — positivas e negativas — decorrentes dela. O autor enfatiza que, quando uma decisão é
+revisada, não se deve apagar o registro anterior, mas marcá-lo como *superseded*, preservando o histórico e permitindo
+compreender a evolução do sistema.
+
+A principal contribuição de Nygard é propor um formato de documentação simples, modular e incremental, em contraste com os
+extensos relatórios arquiteturais comuns em métodos tradicionais. Essa leveza favorece a manutenção e a compreensão, além
+de garantir transparência sobre o porquê das decisões, evitando que novas equipes repitam erros do passado ou alterem o
+sistema sem considerar restrições originais. O autor também defende que os ADRs ajudam a criar uma “memória arquitetural”
+do projeto, facilitando a comunicação entre membros da equipe e reduzindo a dependência de conhecimento tácito.
+
+Embora o método proposto seja amplamente aplicável, Nygard reconhece alguns desafios. A adoção dos ADRs requer disciplina
+e comprometimento da equipe para manter os registros atualizados, o que pode se tornar difícil em projetos com alta
+rotatividade ou prazos apertados. Além disso, manter os documentos apenas no repositório de código pode dificultar o acesso
+por stakeholders não técnicos, exigindo medidas complementares para compartilhamento. Outra limitação está na falta de
+critérios objetivos para determinar quais decisões são “arquiteturalmente significativas” e, portanto, merecem ser
+documentadas.
+
+Ainda assim, o artigo se destaca pela clareza e relevância prática. Nygard oferece uma abordagem que equilibra agilidade e
+rastreabilidade, mostrando que é possível documentar de forma eficiente sem comprometer a velocidade do desenvolvimento.
+Sua proposta foi amplamente adotada e inspirou práticas de engenharia de software contemporâneas, consolidando os ADRs
+como uma ferramenta essencial para a gestão da arquitetura evolutiva em equipes ágeis.
+
