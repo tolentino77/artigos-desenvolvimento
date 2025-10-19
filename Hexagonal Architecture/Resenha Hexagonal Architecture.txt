@@ -1,0 +1,7 @@
+A Arquitetura Hexagonal, proposta por Alistair Cockburn, também conhecida como “Ports and Adapters”, é um modelo de desenvolvimento de software que busca promover o desacoplamento entre a lógica de negócios e os elementos externos, como interfaces de usuário, bancos de dados e serviços de terceiros.
+Entre os principais benefícios desta arquitetura destacam-se a manutenção facilitada, a testabilidade da lógica de negócios sem dependência de sistemas externos e a flexibilidade para integrar novas tecnologias ou fontes de dados sem alterar o núcleo da aplicação. Contudo, sua implementação inicial pode apresentar complexidade e exigir
+curva de aprendizado da equipe de desenvolvimento.
+
+O modelo hexagonal é representado graficamente como um hexágono, simbolizando a independência da aplicação em relação ao mundo externo e a possibilidade de múltiplas portas e adaptadores. Essa estrutura permite que a aplicação seja acionada por diferentes fontes (usuários, scripts ou sistemas) de forma consistente e isolada.
+
+Em suma, a Arquitetura Hexagonal oferece uma abordagem robusta para construção de sistemas modulares, testáveis e resilientes a mudanças tecnológicas, sendo uma referência importante para desenvolvedores que buscam qualidade, escalabilidade e longevidade em seus projetos de software.
